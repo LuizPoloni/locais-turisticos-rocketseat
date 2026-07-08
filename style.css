@@ -5,7 +5,7 @@
     font-family: "Open Sans", sans-serif;
 }
 
-h2 {
+h1 {
     padding-bottom: 40px;
     font-size: 32px;
 }
@@ -42,31 +42,4 @@ img {
     text-align: center;
     color: #333333;
     margin-top: 24px;
-}
-
-
-
-.page {
-    padding: 88px 80px;
-}
-
-img {
-    max-width: 100%;
-    display: block;
-    border-radius: 28px;
-}
-
-main div img {
-    height: 375px;
-    object-fit: cover;
-    /* Ajusta a proporção da imagem*/
-    margin-top: 44px;
-}
-
-ul li::marker {
-    color: #333333;
-}
-
-image-container2 {
-    padding: 20px 20px;
 }
